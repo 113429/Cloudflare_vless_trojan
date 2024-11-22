@@ -1,3 +1,20 @@
+### 脚本1：CF-优选官方IP (默认美、亚、欧三地区 强烈推荐！！！)，安卓苹果手机平板专用：
+```
+curl -sSL https://ghp.ci/https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/cf/cf.sh -o cf.sh && chmod +x cf.sh && bash cf.sh
+```
+-------------------------------------------------------------
+
+### 脚本2：CF-CDN优选公共大厂域名脚本，苹果安卓手机平板专用：
+```
+curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/CFcdnym.sh -o CFcdnym.sh && chmod +x CFcdnym.sh && bash CFcdnym.sh
+```
+------------------------------------------------------------------------
+### 脚本3：CF-优选官方IP+反代IP二合一脚本（带测速），苹果安卓手机平板专用：
+```
+curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/cfip.sh -o cfip.sh && chmod +x cfip.sh && bash cfip.sh
+```
+
+
 # Cloudflare-workers/pages代理脚本
 ### 本项目仅支持本地化部署
 ### 本项目不使用订阅器、节点转换等第三方外链引用，无需担心节点订阅被外链作者查看
