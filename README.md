@@ -1,3 +1,10 @@
+### 脚本4：CF-优选官方IP也不错(默认美、亚、欧三地区 强烈推荐！！！)，安卓苹果手机平板专用：
+```
+curl https://raw.githubusercontent.com/badafans/better-cloudflare-ip/master/shell/cf.sh -o cf.sh && chmod +x cf.sh && ./cf.sh
+```
+-------------------------------------------------------------
+
+
 ### 脚本1：CF-优选官方IP (默认美、亚、欧三地区 强烈推荐！！！)，安卓苹果手机平板专用：
 ```
 curl -sSL https://ghp.ci/https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/cf/cf.sh -o cf.sh && chmod +x cf.sh && bash cf.sh
